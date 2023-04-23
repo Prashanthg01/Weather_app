@@ -23,7 +23,7 @@ To install this project on your local machine, simply clone the repository:
 
 bash
 Copy code
-git clone https://github.com/YOUR-USERNAME/weather-report-app.git
+git clone https://github.com/Prashanthg01/Weather_app.git
 
 Usage
 Open the index.html file in your web browser.
